@@ -1,0 +1,9 @@
+{
+  "name": "strapi-provider-email-customerio",
+  "packageManager": "yarn@3.2.2",
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "customerio-node": "^3.4.1"
+  }
+}

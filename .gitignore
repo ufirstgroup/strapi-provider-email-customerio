@@ -1,0 +1,13 @@
+.idea/
+.vscode
+local-env/database/postgres-data
+local-env/database/postgres-data-test
+local-env/files/
+local-env/files-tests/
+local-env/reverse-proxy/data
+.yarn/install-state-base.gz
+.yarn/install-state-e2e.gz
+.yarn/install-state-frontend.gz
+.yarn/install-state-strapi.gz
+node_modules
+.DS_Store
